@@ -1,8 +1,8 @@
-🧮 # Age Calculator
+🧮 Age Calculator
 
 A simple JavaScript program that calculates your age based on the birth year and current year entered by the user.
 
-📂 # How It Works
+📂 How It Works
 - The program asks the user to input their birth year and the current year.
 - It then calculates the age using a basic subtraction operation.
 - Finally, it displays the birth year, current year, and calculated age in the console.
